@@ -1,6 +1,6 @@
 {
-    "name": "UFlow.Addon.FSM.Runtime",
-    "rootNamespace": "UFlow.Addon.FSM.Runtime",
+    "name": "UFlow.Addon.FSM.Core.Runtime",
+    "rootNamespace": "UFlow.Addon.FSM.Core.Runtime",
     "references": [
         "GUID:bb1ffefc3dfaace4eb1d1ecc2cf4e24a"
     ],
